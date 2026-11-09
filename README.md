@@ -1,5 +1,1 @@
-# mlops-zoomcamp 
-
-This is test
-
-add new data 
+This is an example
